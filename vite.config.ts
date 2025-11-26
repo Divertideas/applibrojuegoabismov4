@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // Config para GitHub Pages del repo "applibrojuegoabismo"
 export default defineConfig({
   plugins: [react()],
-  base: '/applibrojuegoabismo/', // nombre del repo en GitHub
+  base: '/applibrojuegoabismov4/',
   build: {
     outDir: 'docs', // aquí se generará la web
   },
